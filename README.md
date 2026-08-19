@@ -4,8 +4,9 @@
 #### What is a Hacker Card? ####
 Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs.
 <video src="images/movie.mov" controls width="200px"> </video>
-![alt text](images/image-8.png)
-
+<p align= "center">
+<img src="images/image-8.png" width="600px" height="500px">
+</p>
 #### Features:
 - Programmable NFC
 - LEDs
