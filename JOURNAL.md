@@ -1,10 +1,10 @@
 Journals! :3
 --------
-title: "Hacker Card"
-github: "https://github.com/sunshinee16/hacker-card"
-description: soon 
+title: "Hacker Card" <br>
+github: "https://github.com/sunshinee16/hacker-card" <br>
+description: Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs.
 created_at: "18-08-2026"
-![alt text](images/image-8.png)
+![alt text](images/image-6.png)
 -------
 
 August 18th, 2026:
@@ -42,3 +42,5 @@ Final ones! :3
 failed attempts :loll: :
 ![alt text](images/image-8.png)
 ![alt text](images/image-9.png)
+
+--------
