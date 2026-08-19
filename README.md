@@ -4,6 +4,7 @@
 #### What is a Hacker Card? ####
 Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs.
 <video src="images/movie.mov" controls width="200px"> </video>
+![alt text](images/image-8.png)
 
 #### Features:
 - Programmable NFC
@@ -31,3 +32,9 @@ Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it ca
 (yay!)
 ----
 # BOM (Bill Of Materials)
+Check out BOM.csv :)
+----
+
+# Credits
+- Hack Club jam - guide
+- EasyEDA - Design and schematics
