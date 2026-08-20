@@ -1,10 +1,12 @@
 Journals! :3
 --------
-title: "Hacker Card" <br>
-github: "https://github.com/sunshinee16/hacker-card" <br>
-description: Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs.
-created_at: "18-08-2026"
-![alt text](images/image-6.png)
+|title| "Hacker Card"| 
+|github| "https://github.com/sunshinee16/hacker-card"|
+|description| Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs|
+|created_at "18-08-2026|
+<p align = "center">
+<img src="images/image-6.png" width="400x" height="300px">
+</p>
 -------
 
 August 18th, 2026:
@@ -14,9 +16,11 @@ Firstly I made the github repo :p, and the files initially - Journal.md, README.
 - A NT3H2111W0FHKH NFC Chip
 - a ~2V LED 
 - a 220nF capacitor
-- a 47Ω resistor 
-![alt text](images/image.png)
-![alt text](images/image-1.png)
+- a 47Ω resistor
+<p align = "center"> 
+<img src="images/image.png" width="500px" height="400px">
+<img src="images/image-1.png" width="500px" height="400px">
+</p>
 
 For this, I've worked on finding and placing the components on the schematic board :)
 ----
