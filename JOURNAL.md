@@ -1,9 +1,11 @@
 Journals! :3
 --------
+
 |title| "Hacker Card"| 
+|---|---|
 |github| "https://github.com/sunshinee16/hacker-card"|
 |description| Hacker Card is a PCB (Printed Circuit Boards) business card with a twist - it can light up using NFC chip and custom designs|
-|created_at "18-08-2026|
+|created_at| "18-08-2026|
 <p align = "center">
 <img src="images/image-6.png" width="400x" height="300px">
 </p>
@@ -20,7 +22,7 @@ Firstly I made the github repo :p, and the files initially - Journal.md, README.
 <p align = "center"> 
 <img src="images/image.png" width="500px" height="400px">
 <img src="images/image-1.png" width="500px" height="400px">
-</p>
+</p> 
 
 For this, I've worked on finding and placing the components on the schematic board :)
 ----
